@@ -1,0 +1,9 @@
+#Django
+Django==4.2.6
+#Djangorest
+djangorestframework==3.14.0
+#for photos
+Pillow==10.0.1
+
+#for database postgresql
+psycopg2==2.9.9
